@@ -1,0 +1,49 @@
+C:\Documents and Settings\Sandro\Impostazioni locali\Dati applicazioni\Temporary Projects\Tutorial matrici\bin\Debug\Applicazione LogiX.exe
+C:\Documents and Settings\Sandro\Impostazioni locali\Dati applicazioni\Temporary Projects\Tutorial matrici\bin\Debug\Applicazione LogiX.pdb
+C:\Documents and Settings\Sandro\Impostazioni locali\Dati applicazioni\Temporary Projects\Tutorial matrici\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Impostazioni locali\Dati applicazioni\Temporary Projects\Tutorial matrici\obj\Debug\Tutorial_matrici.Properties.Resources.resources
+C:\Documents and Settings\Sandro\Impostazioni locali\Dati applicazioni\Temporary Projects\Tutorial matrici\obj\Debug\Tutorial matrici.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sandro\Impostazioni locali\Dati applicazioni\Temporary Projects\Tutorial matrici\obj\Debug\Applicazione LogiX.exe
+C:\Documents and Settings\Sandro\Impostazioni locali\Dati applicazioni\Temporary Projects\Tutorial matrici\obj\Debug\Applicazione LogiX.pdb
+C:\Documents and Settings\Sandro\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial_matrici.Properties.Resources.resources
+C:\Documents and Settings\Sandro\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sandro\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.exe
+C:\Documents and Settings\Sandro\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.pdb
+C:\Documents and Settings\Sandro\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.exe
+C:\Documents and Settings\Sandro\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.pdb
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.exe
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.pdb
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.exe
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.pdb
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial_matrici.Properties.Resources.resources
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.csproj.GenerateResource.Cache
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.exe
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.pdb
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.exe
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.pdb
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\ResolveAssemblyReference.cache
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial_matrici.Properties.Resources.resources
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.csproj.GenerateResource.Cache
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Applicazione_LogiX.Form2.resources
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.exe
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial matrici.pdb
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.exe
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.pdb
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\ResolveAssemblyReference.cache
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Tutorial_matrici.Properties.Resources.resources
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\ResGen.read.1.tlog
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\ResGen.write.1.tlog
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Debug\Tutorial matrici.exe.config
+D:\CHOSKO\Programming\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Debug\Applicazione_LogiX.Form2.resources
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\bin\Debug\Tutorial matrici.exe.config
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\obj\Debug\Tutorial matrici.exe
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\obj\Debug\Tutorial matrici.pdb
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\bin\Debug\Tutorial matrici.exe
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\bin\Debug\Tutorial matrici.pdb
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\obj\Debug\Applicazione_LogiX.Form2.resources
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\obj\Debug\Tutorial_matrici.Properties.Resources.resources
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\obj\Debug\ResGen.read.1.tlog
+C:\Users\Chosko\Desktop\Tesina\Planetario\Tutorial matrici\obj\Debug\ResGen.write.1.tlog

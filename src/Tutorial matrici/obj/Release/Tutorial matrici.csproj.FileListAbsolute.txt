@@ -1,0 +1,14 @@
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Release\Tutorial matrici.exe
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Release\Tutorial matrici.pdb
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial_matrici.Properties.Resources.resources
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial matrici.csproj.GenerateResource.Cache
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial matrici.exe
+D:\Documents and Settings\Ruben\Desktop\TESINA 2\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial matrici.pdb
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Release\Tutorial matrici.exe
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\bin\Release\Tutorial matrici.pdb
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\ResolveAssemblyReference.cache
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial_matrici.Properties.Resources.resources
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial matrici.csproj.GenerateResource.Cache
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial matrici.exe
+F:\Tesina in progress\Tutorial matrici\Tutorial matrici\Tutorial matrici\obj\Release\Tutorial matrici.pdb
