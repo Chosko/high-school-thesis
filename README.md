@@ -22,6 +22,38 @@ This repo contains:
 * The source code of the project (src folder)
 * A working release of the project (Planetario.exe and MEDIA folder). The MEDIA folder must be in the same directory of the executable.
 
+## Controls
+
+**MOUSE MOVE** orbit the camera
+
+**MOUSE SCROLL** increase/decrease camera distance
+
+**SPACEBAR** go to the next planet (or satellite)
+
+**1 to 8** go to the n-th planet
+
+**+** accelerate the time
+
+**-** decelerate the time
+
+**S** solid rendering (default)
+
+**W** wireframe rendering
+
+**P** point rendering
+
+**A** zoom in (warning: no max value set)
+
+**Z** zoom out (warning: no min value set)
+
+**ESC** exit the application
+
+## Info
+
+The size of the planets and the orbits are proportional to the real (except for the sun). The planets are quite oversized with respect to their orbits for demonstrative purposes 
+
+The planets are lined up at the start because one of the aims was to show the relationship between the distance from the sun and the period of revolution.
+
 ## System Requirements
 
 The program runs only on Windows systems, with DirectX runtime installed.
