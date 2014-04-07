@@ -38,4 +38,4 @@ It has been tested on:
 
 ## License
 
-All the content of this repository is released under the MIT license, except for the thesis (Logix Engine.doc) and the slides (Logix Engine.ppt) that are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+All the content of this repository is released under the BSD 2-Clause License, except for the thesis (Logix Engine.doc) and the slides (Logix Engine.ppt) that are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
