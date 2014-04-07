@@ -3,7 +3,7 @@ high-school-thesis
 
 This is the thesis I presented at the end of the High School courses, in 2009, at the "Liceo Scientifico Piero Gobetti" of Turin.
 
-# IMPORTANT - please reade before
+# IMPORTANT - please read before
 
 Before reading both the code and the thesis, and before running the project, please consider the following things:
 
